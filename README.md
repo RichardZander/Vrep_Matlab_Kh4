@@ -2,7 +2,7 @@
 基于Vrep与Matlab环境的Kh4仿真建模
 <br>
 
-KH4 Simulation Modeling Based on VREP and Matlab Environment
+Khepera IV Mobile Robot Simulation Modeling Based on VREP and Matlab Environment
 <br>
 
 TODO: English version of the modeling process
